@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a predictive model for the HR department to forecast employee attrition. It also seeks to provide insights into the factors contributing to attrition, enabling HR to implement corrective or preventive measures to manage employee turnover effectively.
+This project aims to develop a predictive model for the HR department to forecast employee attrition. It also seeks to provide insights into the factors contributing to attrition, enabling HR to implement corrective or preventive measures to manage employee turnover effectively. This is a typical binary classification problem
 
 ## Objective
 
